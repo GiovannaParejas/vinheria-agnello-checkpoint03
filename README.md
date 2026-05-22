@@ -11,6 +11,7 @@ Sistema de gestão de estoque desenvolvido em JavaScript para a Vinheria Agnello
 
 Giovanna Andrade Parejas
 
-## Link do GitHub Pages
+## Links
 
-[link](link)
+- [Repositório](https://github.com/GiovannaParejas/vinheria-agnello-checkpoint03)
+- [GitHub Pages](https://giovannaparejas.github.io/vinheria-agnello-checkpoint03/)
