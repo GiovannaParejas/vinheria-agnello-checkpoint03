@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.header {
+    padding: 20px;
+    background-color: #4b0f1c;
+    color: white;
+}
+
+.sobreVinharia {
+    padding: 20px;
+    background-color: white;      
+}
+
+.diferencial {
+     padding: 20px;
+     background-color: #F8F4F0;
+}
+
+.sobreProjeto {
+     padding: 20px;
+     background-color: white;
+}
+
+.imagens {
+    display: block;
+    margin: auto;
+    width: 400px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
